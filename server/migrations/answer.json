@@ -1,0 +1,439 @@
+[
+        {
+                "id": 1,
+                "text": "$50"
+        },
+        {
+                "id": 2,
+                "text": "$200"
+        },
+        {
+                "id": 3,
+                "text": "$450",
+                "is_correct": true
+        },
+        {
+                "id": 4,
+                "text": "$500"
+        },
+        {
+                "id": 5,
+                "text": "\\( \\frac{1}{4} \\), 0.4, 45%, \\( \\frac{1}{5} \\)"
+        },
+        {
+                "id": 6,
+                "text": " \\( \\frac{1}{5} \\), \\( \\frac{1}{4} \\), 45%, 0.4"
+        },
+        {
+                "id": 7,
+                "text": "\\( \\frac{1}{4} \\), 0.4, \\( \\frac{1}{5} \\), 45%"
+        },
+        {
+                "id": 8,
+                "text": "\\( \\frac{1}{5} \\), \\( \\frac{1}{4} \\), 0.4, 45%",
+                "is_correct": true
+        },
+        {
+                "id": 9,
+                "text": "1 hour and 40 mins"
+        },
+        {
+                "id": 10,
+                "text": "49 mins",
+                "is_correct": true
+        },
+        {
+                "id": 11,
+                "text": "1 hour and 11 mins"
+        },
+        {
+                "id": 12,
+                "text": "41mins"
+        },
+        {
+                "id": 13,
+                "text": "$45",
+                "is_correct": true
+        },
+        {
+                "id": 14,
+                "text": "$4.50"
+        },
+        {
+                "id": 15,
+                "text": "$495"
+        },
+        {
+                "id": 16,
+                "text": "$49.50"
+        },
+        {
+                "id": 17,
+                "text": "shipa.png",
+                "type": "image"
+        },
+        {
+                "id": 18,
+                "text": "shipb.png",
+                "type": "image"
+        },
+        {
+                "id": 19,
+                "text": "shipc.png",
+                "type": "image"
+        },
+        {
+                "id": 20,
+                "text": "shipd.png",
+                "type": "image",
+                "is_correct": true
+        },
+        {
+                "id": 21,
+                "text": "\\( \\frac{1}{2} \\)",
+                "is_correct": true
+        },
+        {
+                "id": 22,
+                "text": "\\( \\frac{4}{5} \\)"
+        },
+        {
+                "id": 23,
+                "text": "90%"
+        },
+        {
+                "id": 24,
+                "text": "\\( \\frac{115}{180} \\)"
+        },
+        {
+                "id": 25,
+                "text": "30 km"
+        },
+        {
+                "id": 26,
+                "text": "60.5 km"
+        },
+        {
+                "id": 27,
+                "text": "90 km",
+                "is_correct": true
+        },
+        {
+                "id": 28,
+                "text": "65 km"
+        },
+        {
+                "id": 29,
+                "text": "increase by 10 cm"
+        },
+        {
+                "id": 30,
+                "text": "increase by more than 10 cm",
+                "is_correct": true
+        },
+        {
+                "id": 31,
+                "text": "stay the same"
+        },
+        {
+                "id": 32,
+                "text": "increase by less than 10 cm"
+        },
+        {
+                "id": 33,
+                "text": "1 km",
+                "is_correct": true
+        },
+        {
+                "id": 34,
+                "text": "10 km"
+        },
+        {
+                "id": 35,
+                "text": "200 m"
+        },
+        {
+                "id": 36,
+                "text": "2 km"
+        },
+        {
+                "id": 37,
+                "text": "2 pm Tuesday"
+        },
+        {
+                "id": 38,
+                "text": "2 am Tuesday"
+        },
+        {
+                "id": 39,
+                "text": "2 pm Wednesday"
+        },
+        {
+                "id": 40,
+                "text": "2 am Wednesday",
+                "is_correct": true
+        },
+        {
+                "id": 41,
+                "text": "NW"
+        },
+        {
+                "id": 42,
+                "text": "SE",
+                "is_correct": true
+        },
+        {
+                "id": 43,
+                "text": "NE"
+        },
+        {
+                "id": 44,
+                "text": "SW"
+        },
+        {
+                "id": 45,
+                "text": "6* /(/frac{15}{100}/)",
+                "is_correct": true
+        },
+        {
+                "id": 46,
+                "text": "6* /(/frac{15}{1000}/)"
+        },
+        {
+                "id": 47,
+                "text": "6* /(/frac{15}{10000}/)"
+        },
+        {
+                "id": 48,
+                "text": "6* /(/frac{15}{100000}/)"
+        },
+        {
+                "id": 49,
+                "text": "0%"
+        },
+        {
+                "id": 50,
+                "text": "10%",
+                "is_correct": true
+        },
+        {
+                "id": 51,
+                "text": "30%"
+        },
+        {
+                "id": 52,
+                "text": "20%"
+        },
+        {
+                "id": 53,
+                "text": "90"
+        },
+        {
+                "id": 54,
+                "text": "\\( \\frac{1}{4} \\)"
+        },
+        {
+                "id": 55,
+                "text": "100",
+                "is_correct": true
+        },
+        {
+                "id": 56,
+                "text": "60"
+        },
+        {
+                "id": 57,
+                "text": "$400"
+        },
+        {
+                "id": 58,
+                "text": "$2200"
+        },
+        {
+                "id": 59,
+                "text": "$4000",
+                "is_correct": true
+        },
+        {
+                "id": 60,
+                "text": "$3960"
+        },
+        {
+                "id": 61,
+                "text": "20 - 30 and 30 - 40"
+        },
+        {
+                "id": 62,
+                "text": "30 - 40 and 40 - 50"
+        },
+        {
+                "id": 63,
+                "text": "20 - 30 and Over 50"
+        },
+        {
+                "id": 64,
+                "text": "Can’t tell",
+                "is_correct": true
+        },
+        {
+                "id": 65,
+                "text": "64"
+        },
+        {
+                "id": 66,
+                "text": "72",
+                "is_correct": true
+        },
+        {
+                "id": 67,
+                "text": "90"
+        },
+        {
+                "id": 68,
+                "text": "Can’t tell"
+        },
+        {
+                "id": 69,
+                "text": "200 mL for $7 "
+        },
+        {
+                "id": 70,
+                "text": "300 mL for $9"
+        },
+        {
+                "id": 71,
+                "text": "400 mL for $11.50",
+                "is_correct": true
+        },
+        {
+                "id": 72,
+                "text": "1L for $31"
+        },
+        {
+                "id": 73,
+                "text": "100"
+        },
+        {
+                "id": 74,
+                "text": "143.54"
+        },
+        {
+                "id": 75,
+                "text": "143.55",
+                "is_correct": true
+        },
+        {
+                "id": 76,
+                "text": "143.545"
+        },
+        {
+                "id": 77,
+                "text": "22 hours and 42 minutes "
+        },
+        {
+                "id": 78,
+                "text": "22 hours and 18 minutes"
+        },
+        {
+                "id": 79,
+                "text": "21 hours and 18 minutes"
+        },
+        {
+                "id": 80,
+                "text": "21 hours and 42 minutes",
+                "is_correct": true
+        },
+        {
+                "id": 81,
+                "text": "reflex_a.png",
+                "type": "image"
+        },
+        {
+                "id": 82,
+                "text": "reflex_b.png",
+                "type": "image"
+        },
+        {
+                "id": 83,
+                "text": "reflex_c.png",
+                "type": "image",
+                "is_correct": true
+        },
+        {
+                "id": 84,
+                "text": "reflex_d.png",
+                "type": "image"
+        },
+        {
+                "id": 85,
+                "text": "tony_pie_a.png",
+                "type": "image",
+                "is_correct": true
+        },
+        {
+                "id": 86,
+                "text": "tony_pie_b.png",
+                "type": "image"
+        },
+        {
+                "id": 87,
+                "text": "tony_pie_c.png",
+                "type": "image"
+        },
+        {
+                "id": 88,
+                "text": "tony_pie_d.png",
+                "type": "image"
+        },
+        {
+                "id": 89,
+                "text": "-2, -10, 0, 5, 10 "
+        },
+        {
+                "id": 90,
+                "text": "10, 5, 0, -2, -10"
+        },
+        {
+                "id": 91,
+                "text": "-10, -2, 0, 5, 10",
+                "is_correct": true
+        },
+        {
+                "id": 92,
+                "text": "0, -10, -2, 5, 10"
+        },
+        {
+                "id": 93,
+                "text": "34.8degree"
+        },
+        {
+                "id": 94,
+                "text": "35.2degree"
+        },
+        {
+                "id": 95,
+                "text": "39.2degree"
+        },
+        {
+                "id": 96,
+                "text": "40degree",
+                "is_correct": true
+        },
+        {
+                "id": 97,
+                "text": "2:20 pm"
+        },
+        {
+                "id": 98,
+                "text": "2:20 am"
+        },
+        {
+                "id": 99,
+                "text": "4:20 am"
+        },
+        {
+                "id": 100,
+                "text": "4:20 pm",
+                "is_correct": true
+        }
+]

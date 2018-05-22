@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "title": "Probability & Statistics",
+        "area_id": 2,
+        "questions": [
+            1,
+            2,
+            3
+        ],
+        "questionIds":[]
+    },
+    {
+        "id": 2,
+        "title": "Algebra & Number",
+        "area_id": 2,
+        "questions": [
+            4,
+            5,
+            6
+        ],
+        "questionIds":[]
+    },
+    {
+        "id": 3,
+        "title": "Measurement & Geometry",
+        "area_id": 2,
+        "questions": [
+            7,
+            8,
+            9
+        ],
+        "questionIds":[]
+    }
+]

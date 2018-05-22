@@ -1,0 +1,452 @@
+[
+    {
+        "id": 1,
+        "text": "Petrol at the local station is advertised at $1.50 per litre. John's truck requires 300 litres. How much will it cost to fill John's truck?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "300 times $1.50",
+        "was_answered": false,
+        "answers": [
+            1,
+            2,
+            3,
+            4
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 2,
+        "text": "Which of the following sets of numbers is in ascending(increasing) order?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "0.2 is less than 0.25, which is less than 0.4 which is less than 0.45",
+        "was_answered": false,
+        "answers": [
+            5,
+            6,
+            7,
+            8
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 3,
+        "text": "Jane wishes to travel by bus from Murdoch University, after 7:00 am to arrive at Maddington Station before 8:40 am. How long will it take Jane?",
+        "description": "timetable.png",
+        "description_type": "image",
+        "explanation": "From 7:33 until 8:22",
+        "was_answered": false,
+        "answers": [
+            9,
+            10,
+            11,
+            12
+        ],
+        "answerIds": [],
+        "area_id": 3,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 4,
+        "text": "In Australia the Goods and Services Tax (GST) is 10%. Determine the GST that will be applied to a bicycle with a pre-GST price of $450.",
+        "description": "",
+        "description_type": "text",
+        "explanation": "10% of $450",
+        "was_answered": false,
+        "answers": [
+            13,
+            14,
+            15,
+            16
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 5,
+        "text": "If the ship shown is reflected in the line MN, then the image would be:",
+        "description": "shipq.png",
+        "description_type": "image",
+        "explanation": "The reflection would be horizontal",
+        "was_answered": false,
+        "answers": [
+            17,
+            18,
+            19,
+            20
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 6,
+        "text": "A survey was conducted at a local school on the introduction of Hot Chips at the canteen. The results are summarized in the table. The probability that a student is in favour of introducing Hot Chips into the canteen is:",
+        "description": "table6.png",
+        "description_type": "image",
+        "explanation": "\\( \\frac{90}{180} \\)",
+        "was_answered": false,
+        "answers": [
+            21,
+            22,
+            23,
+            24
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 7,
+        "text": "Francine averages 60 km/hour on her journey into the country. If Francine drove for 1 \\( \\frac{1}{2} \\) hours, how far did Francine travel?",
+        "description": "car.png",
+        "description_type": "image",
+        "explanation": "60 x 1 \\( \\frac{1}{2} \\)",
+        "was_answered": false,
+        "answers": [
+            25,
+            26,
+            27,
+            28
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 8,
+        "text": "A basketball team requires five players in the starting line-up.The Wildbrats basketball team had three guards of 180 cm in height and two centres of height 200 cm in their starting line-up.If one of the guards was replaced by Johnny, who is 190 cm in height,then the average height of the starting line-up would: ",
+        "description": "",
+        "description_type": "text",
+        "explanation": "increase by an average of 2 cm ",
+        "was_answered": false,
+        "answers": [
+            29,
+            30,
+            31,
+            32
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 9,
+        "text": "The scale for the map above is 1:20 000.The approximate distance from the corner of North Road and West Drive to the corner of South Road and West Drive is closest to: ",
+        "description": "map.jpg",
+        "description_type": "image",
+        "explanation": "Approximately 5 cm ->  5 x 200 m",
+        "was_answered": false,
+        "answers": [
+            33,
+            34,
+            35,
+            36
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 10,
+        "text": "MEASUREMENT & GEOMETRY When it is 9:40 pm in Perth, it is 1:40 pm the same day in London.At 6 pm on Tuesday, David, who lives in London, called Scott, who lives in Perth.What was the time in Perth when Scott received the call?",
+        "description": " ",
+        "description_type": "text",
+        "explanation": "8 hours after 6 pm Tuesday",
+        "was_answered": false,
+        "answers": [
+            37,
+            38,
+            39,
+            40
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 11,
+        "text": "The treasure on Treasure Island is at which direction from the pirate ship?",
+        "description": "treasure.jpg",
+        "description_type": "image",
+        "explanation": "Ship needs to travel South, then East",
+        "was_answered": false,
+        "answers": [
+            41,
+            42,
+            43,
+            44
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 12,
+        "text": "Frank wishes to estimate the value of 0.063 x 14.85.Which of the following calculations would give him the closest estimate?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "Approximately 6 x 15 x 0.01",
+        "was_answered": false,
+        "answers": [
+            45,
+            46,
+            47,
+            48
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 13,
+        "text": "Joeline received her Mathematics results back from her teacher.Test A: 20 marks out of 50.Test B: 20 marks out of 40.What is the difference in percentage between the two tests?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "50% - 40%  ",
+        "was_answered": false,
+        "answers": [
+            49,
+            50,
+            51,
+            52
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 14,
+        "text": "The speeds of the 400 cars going past a multanova were recorded and are shown in the following pie chart.If the speed limit was 60 km/hr, how many cars were doing over the speed limit?",
+        "description": "piechart.png",
+        "description_type": "image",
+        "explanation": "90 degrees out of 360 degrees = \\( \\frac{1}{4} \\), therefore 100 cars",
+        "was_answered": false,
+        "answers": [
+            53,
+            54,
+            55,
+            56
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 15,
+        "text": "The retail price of a couch is $4400, after GST of 10% is added.The pre-GST price of the couch is:",
+        "description": "",
+        "description_type": "text",
+        "explanation": "10% of $4000 = $400  GST . $4400",
+        "was_answered": false,
+        "answers": [
+            57,
+            58,
+            59,
+            60
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 16,
+        "text": "In which two age groups were the same number of people surveyed?",
+        "description": "graph.png",
+        "description_type": "image",
+        "explanation": "Not possible as only percentages",
+        "was_answered": false,
+        "answers": [
+            61,
+            62,
+            63,
+            64
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 17,
+        "text": "If 80 people in the age group “Over 50” were surveyed, how many had experienced a cruise?",
+        "description": "graph.png",
+        "description_type": "image",
+        "explanation": " 90% of 80% =72",
+        "was_answered": false,
+        "answers": [
+            65,
+            66,
+            67,
+            68
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 18,
+        "text": "Which of the following advertised specials is the best buy?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "400 mL is less than $3 per 100 mL",
+        "was_answered": false,
+        "answers": [
+            69,
+            70,
+            71,
+            72
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 19,
+        "text": "When rounding 143.5451 to the nearest hundredth, the result is:",
+        "description": "",
+        "description_type": "text",
+        "explanation": "Rounding to the second decimal place",
+        "was_answered": false,
+        "answers": [
+            73,
+            74,
+            75,
+            76
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 20,
+        "text": "Amanda drove from Perth to Eucla. She left at 11:25 am Wednesday and arrived at 9:07 am Thursday. How long did she take?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "35 mins till 12 pm then 21 hours 7 mins till 9:07 am   ",
+        "was_answered": false,
+        "answers": [
+            77,
+            78,
+            79,
+            80
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 21,
+        "text": "Which of the following diagrams represents a reflex angle?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "Angle is between 180degree and 360degree",
+        "was_answered": false,
+        "answers": [
+            81,
+            82,
+            83,
+            84
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 22,
+        "text": "Tony was playing a game of chance using spinners.Which of the following spinners should Tony use to have the best chance of spinning a 6?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "50% chance of landing on 6",
+        "was_answered": false,
+        "answers": [
+            85,
+            86,
+            87,
+            88
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 1,
+        "topicId": {}
+    },
+    {
+        "id": 23,
+        "text": "Which of the following sets are in ascending (increasing) order?",
+        "description": "",
+        "description_type": "text",
+        "explanation": "-10 < -2 < 0",
+        "was_answered": false,
+        "answers": [
+            89,
+            90,
+            91,
+            92
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 2,
+        "topicId": {}
+    },
+    {
+        "id": 24,
+        "text": "On January 8th the temperature in Perth was 37.4degree, and in Memphis USA the temperature was -2.6degree.The difference in temperature between the two cities was:",
+        "description": "",
+        "description_type": "text",
+        "explanation": "37.4 - (-2.6) = 40",
+        "was_answered": false,
+        "answers": [
+            93,
+            94,
+            95,
+            96
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    },
+    {
+        "id": 25,
+        "text": "The clock above is a 24 hour analogue clock.What time is the clock showing?",
+        "description": "clock.jpg",
+        "description_type": "image",
+        "explanation": "1620 is 4:20 pm",
+        "was_answered": false,
+        "answers": [
+            97,
+            98,
+            99,
+            100
+        ],
+        "answerIds": [],
+        "area_id": 2,
+        "topic_id": 3,
+        "topicId": {}
+    }
+]
